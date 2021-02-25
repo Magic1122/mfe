@@ -8,5 +8,4 @@ const MarketingApp = () => {
     }, [])
     return <div ref={ref}></div>
 }
-
 export default MarketingApp
