@@ -8,4 +8,7 @@ const MarketingApp = () => {
     }, [])
     return <div ref={ref}></div>
 }
+
+console.log('test')
+
 export default MarketingApp
