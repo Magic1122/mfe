@@ -10,4 +10,3 @@ const MarketingApp = () => {
 }
 
 export default MarketingApp
-
